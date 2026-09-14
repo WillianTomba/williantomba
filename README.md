@@ -1,30 +1,55 @@
-## Hi there 👋
+# Hi, I'm Willian 👋
 
-<!--
-**WillianTomba/williantomba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Data Engineer | Building Reliable Data Platforms for Analytics & AI**
 
+I'm a Senior Data Engineer with 10+ years of experience across data, analytics, 
+BI, and business operations, including 5+ years focused on Data Engineering.
 
-<h1>Hi There, I'm Willian Tomba  <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+I design and build reliable, scalable data platforms using **Python, SQL, 
+Snowflake, dbt, Airflow, Databricks, Azure, and AWS**.
 
--I'm a **Machine Learning Engineer** working at [Peak](https://peak.ai/). My day to day work revolves around building Machine Learning models for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
+My focus is not just making pipelines work — it's making them reliable, 
+maintainable, and ready to scale.
 
--## Skill Set :muscle:
+## What I work on
 
--These are some of the major technologies that I use or have worked on in the past:
+- Building and improving ETL/ELT data pipelines
+- Data modeling and analytics-ready data layers
+- Incremental and idempotent data processing
+- Data quality, validation, and reliability
+- API and heterogeneous data source integration
+- Pipeline performance and scalability
+- Data foundations for Analytics & AI
 
--**Programming Languages**
+## Tech Stack
 
--<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">|<img title="Go" alt="Go" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
-|--|--|--|--|--|
+**Data Engineering**  
+Python · SQL · dbt · Airflow · Prefect · Spark · Databricks
 
-Here are some ideas to get you started:
+**Data Platforms**  
+Snowflake · PostgreSQL · Azure · AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Engineering**  
+Docker · Git · CI/CD · Data Modeling · Data Quality
+
+## Featured Project
+
+### 🏀 NBA Data Engineering Pipeline
+
+A production-oriented data pipeline that ingests NBA data from REST APIs, 
+preserves raw payloads for auditability and reprocessing, and builds a 
+reliable analytics-ready model in PostgreSQL.
+
+**Engineering concepts demonstrated:**
+
+- Parallel REST API ingestion
+- Raw and curated data layers
+- Idempotent processing and upserts
+- Schema drift detection
+- Automated data quality checks
+- Unit testing
+- Dockerized development environment
+- Reproducible setup and documented engineering decisions
+
+<!--👉 [View the project](https://github.com/WillianTomba/gemini-data-engineering-challenge)
 -->
